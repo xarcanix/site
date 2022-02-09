@@ -28,6 +28,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
         with:
-          deploy_key: ${{ secrets.GH_TOKEN }}
-          external_repository: xarcanix/xarcanix.github.io
+          github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./public
