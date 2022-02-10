@@ -1,16 +1,16 @@
-baseURL = "https://xarcanix.github.io/site/"
+baseURL = "https://xarcanix.github.io/"
 languageCode = "en-us"
-title = "Hugo Grayscale Theme"
+title = "xarcanix simple page"
 theme = "hugograyscale"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
     # Provide some metadata for search and indexing services
-    description = "A port of the Grayscale theme to Hugo"
+    description = "xarcanix simple page"
 
 [Author]
     name = "xarcanix"
 
 [Social]
-    twitter = "stream_running"
+    twitter = "xarcanix_running"

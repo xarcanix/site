@@ -1,11 +1,13 @@
 ---
 title: "Links"
 weight: 3
-improvecontrast: true
+improvecontrast: false
 ---
 
-## XarcaniX
+# links
 
-Github page.
+[github page.](https://github.com/xarcanix/)
 
-{{< big-button text="Visit Download Page" href="https://github.com/runningstream/hugograyscale/" >}}
+{{< socialhandles >}}
+    {{< github user="xarcanix" >}}
+{{< /socialhandles >}}
